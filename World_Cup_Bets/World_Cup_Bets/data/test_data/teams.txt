@@ -1,0 +1,35 @@
+1;France
+2;Croatia
+3;Belgium
+4;England
+5;Brazil
+6;Uruguay
+7;Russia
+8;Sweden
+9;Spain
+10;Argentina
+11;Mexico
+12;Colombia
+13;Japan
+14;Denmark
+15;Portugal
+16;Netherlands
+17;Morocco
+18;Germany
+19;Switzerland
+20;Serbia
+21;Costa Rica
+22;Tunisia
+23;Panama
+24;South Korea
+25;Iran
+26;Saudi Arabia
+27;Egypt
+28;Poland
+29;Senegal
+30;Nigeria
+31;Peru
+32;Australia
+33;USA
+609;Israel
+34;Canada

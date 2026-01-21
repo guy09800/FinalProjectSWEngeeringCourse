@@ -1,0 +1,6 @@
+tomf@example.com;7184;32;0
+rotema@example.com;7184;33;0
+idanlin97@gmail.com;7184;609;0
+tomf@example.com;5593;10;18
+omers@example.com;5593;2;43
+idanlin97@gmail.com;5593;10;57
